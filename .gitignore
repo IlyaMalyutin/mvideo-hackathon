@@ -4,3 +4,4 @@ logs/
 .idea/
 dumps/
 .DS_Store
+*.bin
