@@ -31,6 +31,7 @@ RUN pip3 --no-cache-dir install \
         scipy \
         sklearn \
         nltk \
+        seaborn \
         && \
     python3 -m ipykernel.kernelspec
 
